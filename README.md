@@ -3,7 +3,12 @@
 **Laboratorio 07 · Inspección de Arquitectura, Hidden States y Autoatención en BERT (BETO)**
 Inteligencia Artificial 2026-2 · Escuela Profesional de Ingeniería de Sistemas · UAC
 
-**Estudiante:** _(nombre y código)_
+**Estudiantes:**
+Auccapiña Bombilla Rodrigo Fabricio - 021200266k
+Huillca Monterola Aderly Aldair - 022100363c
+Rodrìguez Castro Luz Dioneth – 021201359B
+Tapia Palomino Andy Sebastian – 022100575K
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEBASTIAN7844/unidad-3--transformers/blob/main/Lab03_Arquitectura_BERT_BETO.ipynb)
 
